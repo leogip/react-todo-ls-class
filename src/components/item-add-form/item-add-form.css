@@ -1,0 +1,16 @@
+.todo-add {
+  display: flex;
+}
+
+.todo-add .form-group {
+  flex: 1;
+  margin-right: 40px;
+}
+
+.todo-add .form-group input {
+  width: 100%;
+}
+
+.todo-add button {
+  margin-left: auto;
+}
